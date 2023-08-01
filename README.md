@@ -1,2 +1,2 @@
-# python
-Repository for Python
+# system design
+Repository for System Design - HLD / LLD
